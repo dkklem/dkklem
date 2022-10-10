@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dkklem&show_icons=true&theme=dracula&hide=stars&custom_title=Daniela%20Klem's%20GitHub%20Stats" />
 </a>
